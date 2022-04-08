@@ -1,6 +1,6 @@
 # CiDAMO
 
-[Logo CiDAMO](/imagens/logo_cidamo.png "Logo CiDAMO")
+![Logo CiDAMO](/imagens/logo_cidamo.png "Logo CiDAMO")
 
 O [CiDAMO](http://cidamo.com.br/) é o Grupo de Ciência de Dados, Aprendizagem de Máquina e Otimização da UFPR. O grupo possui como coordenadores o Profº Lucas Pedroso e o Profº Roberto Ribeiro e estudantes/pesquisadores de diversos cursos da UFPR.
 
